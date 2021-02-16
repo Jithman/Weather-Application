@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background: #ccf2f4;
+	font-family: 'Roboto', sans-serif;
+}
+
+.container{
+	display: flex;
+	justify-content: center;
+	margin-top: 30vh;
+}
+
+.card{
+	background: #f4f9f9;
+	border: 1px solid #f4f9f9;
+	align-items: center;
+
+}
+
+.eg{
+	font-size: 0.7rem;
+}
+
+
+
+
+
+
